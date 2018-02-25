@@ -10,6 +10,7 @@ The output is a list that has the valid words and their coresponding scores.
 
 example: 
 enter the letters ilst
+
 4 tils
 4 slit
 4 silt
@@ -27,3 +28,6 @@ enter the letters ilst
 2 li
 2 it
 2 is
+
+
+Made in python
